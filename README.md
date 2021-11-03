@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yolanda Chen. @Yolanda-GH
+- 👋 Hi, I’m Yolanda Chen. @Yolanda-C-GitHub
 - 👀 I’m interested in Database Administration, Application Development in SQL Server / IBM DB2 Database System.
 - 🌱 I’m currently Azure Administration.
 - 💞️ I’m looking to collaborate on ...
